@@ -1,0 +1,129 @@
+﻿#,Time,Gender,Name,Nationality,Date,Meet,Location,Stroke,Age 
+1,23.86,Male,Jonty Skinner, South Africa,1976,AAU Nationals,"Philadelphia, PA, United States",Freestyle,22
+2,23.74,Male,Joe Bottom, United States,1977,Canada Cup,"Etobicoke, Canada",Freestyle,22
+3,23.72,Male,Ron Manganiello, United States,1978,-,"Miami, FL, United States",Freestyle,
+4,23.7,Male,Klaus Steinbach, West Germany,1979,-,"Freiburg, West Germany",Freestyle,26
+5,23.66,Male,Chris Cavanaugh, United States,1980,International Invitational,"Amersfoort, Netherlands",Freestyle,18
+6,23.12,Male,Chris Cavanaugh, United States,1980,USA Spring Nationals,"Austin, TX, United States",Freestyle,18
+7,22.96,Male,Rowdy Gaines, United States,1980,USA Spring Nationals,"Austin, TX, United States",Freestyle,21
+8,22.83,Male,Bruce Stahl, United States,1980,USA Spring Nationals,"Austin, TX, United States",Freestyle,
+8,22.83,Male,Joe Bottom, United States,1980,Hawaiian Invitational,"Honolulu, HI, United States",Freestyle,25
+9,22.71,Male,Joe Bottom, United States,1980,Hawaiian Invitational,"Honolulu, HI, United States",Freestyle,25
+10,22.54,Male,Robin Leamy, United States,1981,USA Nationals,"Brown Deer, WI, United States",Freestyle,20
+11,22.52,Male,Dano Halsall,  Switzerland,1985,SUI Nationals,"Bellinzona, Switzerland",Freestyle,22
+12,22.4,Male,Tom Jager, United States,1985,USS Invitational,"Austin, TX, United States",Freestyle,21
+13,22.33,Male,Matt Biondi, United States,1986,USA World Championship Trials,"Orlando, FL, United States",Freestyle,21
+13,22.33,Male,Matt Biondi, United States,1987,USA Nationals & Pan Pacific Trials,"Clovis, CA, United States",Freestyle,22
+14,22.32,Male,Tom Jager, United States,1987,Pan Pacific Championships,"Brisbane, Australia",Freestyle,23
+15,22.23,Male,Tom Jager, United States,1988,USA Spring Nationals,"Orlando, FL, United States",Freestyle,24
+INV,22.18,Male,Peter Williams, South Africa,1988,CSCA Invitational,"Indianapolis, IN, United States",Freestyle,20
+16,22.14,Male,Matt Biondi, United States,1988,Olympic Games,"Seoul, South Korea",Freestyle,23
+17,22.12,Male,Tom Jager, United States,1989,Pan Pacific Championships,"Tokyo, Japan",Freestyle,25
+18,21.98,Male,Tom Jager, United States,1990,US Sprint,"Nashville, TN, United States",Freestyle,26
+19,21.81,Male,Tom Jager, United States,1990,US Sprint,"Nashville, TN, United States",Freestyle,26
+20,21.64,Male,Alexander Popov, Russia,2000,Russian Olympic Trials,"Moscow, Russia",Freestyle,29
+21,21.56,Male,Eamon Sullivan, Australia,2008,New South Wales State Championships,"Sydney, Australia",Freestyle,23
+22,21.5,Male,Alain Bernard, France,2008,European Championships,"Eindhoven, Netherlands",Freestyle,25
+23,21.41,Male,Eamon Sullivan, Australia,2008,Australian Championships & Olympic Trials,"Sydney, Australia",Freestyle,23
+24,21.28,Male,Eamon Sullivan, Australia,2008,Australian Championships & Olympic Trials,"Sydney, Australia",Freestyle,23
+25,20.94,Male,Frédérick Bousquet, France,2009,French Championships,"Montpellier, France",Freestyle,28
+26,20.91,Male,César Cielo, Brazil,2009,CBDA Open - Brazilian Championships,"São Paulo, Brazil",Freestyle,22
+1,26.99,Female,Kornelia Ender, East Germany,1975,World Championships,"Cali, Colombia",Freestyle,17
+2,26.95,Female,Johanna Malloy, Canada,1977,Canada Summer Games,"St. John's, NL, Canada",Freestyle,
+3,26.74,Female,Anne Jardin, Canada,1978,Canada Summer Nationals,"Etobicoke, Canada",Freestyle,19
+4,26.61,Female,Cynthia Woodhead, United States,1980,USA Spring Nationals,"Austin, TX, United States",Freestyle,16
+5,26.53,Female,Kelly Asplund, United States,1980,USA Spring Nationals,"Austin, TX, United States",Freestyle,
+6,26.32,Female,Jill Sterkel, United States,1980,USA Spring Nationals,"Austin, TX, United States",Freestyle,19
+7,25.96,Female,Jill Sterkel, United States,1980,USA Spring Nationals,"Austin, TX, United States",Freestyle,19
+8,25.79,Female,Jill Sterkel, United States,1981,Longhorn Invitational,"Austin, TX, United States",Freestyle,20
+9,25.69,Female,Dara Torres, United States,1983,Speedo International,"Amersfoort, Netherlands",Freestyle,16
+10,25.64,Female,Annemarie Verstappen, Netherlands,1983,NED Nationals,"Amersfoort, Netherlands",Freestyle,18
+11,25.62,Female,Dara Torres, United States,1983,USA Nationals,"Clovis, CA, United States",Freestyle,16
+12,25.61,Female,Dara Torres, United States,1984,Pre-Olympic meet,"Mission Viejo, CA, United States",Freestyle,17
+13,25.5,Female,Tamara Costache, Romania,1986,ROU Nationals & World Championship Trials,"Bucharest, Romania",Freestyle,16
+14,25.34,Female,Tamara Costache, Romania,1986,ROU Nationals & World Championship Trials,"Bucharest, Romania",Freestyle,16
+15,25.31,Female,Tamara Costache, Romania,1986,Balkan Games,"Sofia, Bulgaria",Freestyle,16
+16,25.28,Female,Tamara Costache, Romania,1986,World Championships,"Madrid, Spain",Freestyle,16
+17,24.98,Female,Yang Wenyi, China,1988,Asian Swimming Championships,"Guangzhou, China",Freestyle,16
+18,24.79,Female,Yang Wenyi, China,1992,Olympic Games,"Barcelona, Spain",Freestyle,20
+19,24.51,Female,Le Jingyi, China,1994,World Championships,"Rome, Italy",Freestyle,19
+19,24.51,Female,Inge de Bruijn, Netherlands,2000,Super Speedo Grand Prix,"Sheffield, United Kingdom",Freestyle,27
+20,24.48,Female,Inge de Bruijn, Netherlands,2000,NED Olympic Trials,"Drachten, Netherlands",Freestyle,27
+21,24.39,Female,Inge de Bruijn, Netherlands,2000,Trofeu Jose Finkel & BRA Olympic Trials,"Rio de Janeiro, Brazil",Freestyle,29
+22,24.13,Female,Inge de Bruijn, Netherlands,2000,Olympic Games,"Sydney, Australia",Freestyle,26
+23,24.09,Female,Marleen Veldhuis, Netherlands,2008,European Championships,"Eindhoven, Netherlands",Freestyle,24
+24,23.97,Female,Libby Trickett, Australia,2008,Australian Championships & Olympic Trials,"Sydney, Australia",Freestyle,23
+25,23.96,Female,Marleen Veldhuis, Netherlands,2009,Amsterdam Swim Cup,"Amsterdam, Netherlands",Freestyle,30
+26,23.73,Female,Britta Steffen, Germany,2009,World Championships,"Rome, Italy",Freestyle,26
+27,23.67,Female,Sarah Sjöström, Sweden,2017,World Championships,"Budapest, Hungary",Freestyle,24
+WBT,23.68,Male,Denis Pankratov, Russia,1996,Meet of Champions,"Mulhouse, France",Butterfly,24
+1,23.6,Male,Geoff Huegill, Australia,2000,Australia Championships,"Sydney, Australia",Butterfly,21
+2,23.44,Male,Geoff Huegill, Australia,2001,World Championships,"Fukuoka, Japan",Butterfly,22
+3,23.43,Male,Matt Welsh, Australia,2003,World Championships,"Barcelona, Spain",Butterfly,27
+4,23.3,Male,Ian Crocker, United States,2004,Big 12 Time Trials,"Austin, United States",Butterfly,22
+5,23.01,Male,Roland Schoeman, South Africa,2005,World Championships,"Montreal, Canada",Butterfly,25
+6,22.96,Male,Roland Schoeman, South Africa,2005,World Championships,"Montreal, Canada",Butterfly,25
+7,22.43,Male,Rafael Muñoz, Spain,2009,Spain Nationals,"Málaga, Spain",Butterfly,21
+8,22.27,Male,Andriy Govorov, Ukraine,2018,Sette Colli Trophy,"Rome, Italy",Butterfly,26
+1,26.54,Female,Inge de Bruijn, Netherlands,1999,Netherlands Championships,"Amersfoort, Netherlands",Butterfly,26
+2,26.39,Female,Anna-Karin Kammerling, Sweden,1999,Sweden Championships,"Halmstad, Sweden",Butterfly,19
+3,26.29,Female,Anna-Karin Kammerling, Sweden,1999,European Championships,"Istanbul, Turkey",Butterfly,19
+4,25.83,Female,Inge de Bruijn, Netherlands,2000,Mare Nostrum,"Monte Carlo, Monaco",Butterfly,27
+5,25.64,Female,Inge de Bruijn, Netherlands,2000,Super Speedo Grand Prix,"Sheffield, United Kingdom",Butterfly,22
+6,25.57,Female,Anna-Karin Kammerling, Sweden,2002,European Championships,"Berlin, Germany",Butterfly,22
+7,25.46,Female,Therese Alshammar, Sweden,2007,Mare Nostrum,"Barcelona, Spain",Butterfly,30
+8,25.33,Female,Marleen Veldhuis, Netherlands,2009,Swim Cup Amsterdam,"Amsterdam, Netherlands",Butterfly,30
+9,25.07,Female,Therese Alshammar, Sweden,2009,World Championships,"Rome, Italy",Butterfly,32
+10,24.43,Female,Sarah Sjöström, Sweden,2014,Swedish Championships,"Borås, Sweden",Butterfly,21
+WBT,27.61,Male,Alexander Dzhaburiya, Ukraine,1996,Ukraine Olympic Trials,"Kharkov, Ukraine",Breaststroke,
+1,27.49,Male,Anthony Robinson, United States,2001,USA Nationals & World Championship Trials,"Austin, United States",Breaststroke,
+2,27.39,Male,Ed Moses, United States,2001,USA Nationals & World Championship Trials,"Austin, United States",Breaststroke,21
+3,27.18,Male,Oleg Lisogor, Ukraine,2002,European Championships,"Berlin, Germany",Breaststroke,23
+4,27.06,Male,Cameron van der Burgh, South Africa,2009,South African Championships,"Durban, South Africa",Breaststroke,21
+5,26.89,Male,Felipe França, Brazil,2009,Brazil Championships (Maria Lenk),"Rio de Janeiro, Brazil",Breaststroke,22
+6,26.74,Male,Cameron van der Burgh, South Africa,2009,World Aquatics Championships,"Rome, Italy",Breaststroke,21
+7,26.67,Male,Cameron van der Burgh, South Africa,2009,World Aquatics Championships,"Rome, Italy",Breaststroke,21
+8,26.62,Male,Adam Peaty, Great Britain,2014,European Championships,"Berlin, Germany",Breaststroke,20
+8,26.62,Male,Cameron van der Burgh, South Africa,2015,World Championships,"Kazan, Russia",Breaststroke,27
+9,26.42,Male,Adam Peaty, Great Britain,2015,World Championships,"Kazan, Russia",Breaststroke,21
+10,26.1,Male,Adam Peaty, Great Britain,2017,World Championships,"Budapest, Hungary",Breaststroke,21
+11,25.95,Male,Adam Peaty, Great Britain,2017,World Championships,"Budapest, Hungary",Breaststroke,21
+WBT,30.95,Female,Penelope Heyns, South Africa,1998,Goodwill Games,"New York, NY, United States",Breaststroke,24
+1,30.83,Female,Penelope Heyns, South Africa,1999,Pan Pacific Championships,"Sydney, Australia",Breaststroke,25
+2,30.57,Female,Zoe Baker, Great Britain,2002,Commonwealth Games,"Manchester, United Kingdom",Breaststroke,
+3,30.45,Female,Jade Edmistone, Australia,2005,World Championships,"Montreal, Canada",Breaststroke,23
+4,30.31,Female,Jade Edmistone, Australia,2006,AUS Nationals & Commonwealth Games Trials,"Melbourne, Australia",Breaststroke,24
+5,30.23,Female,Amanda Reason, Canada,2009,CAN World Championship Trials,"Montreal, Canada",Breaststroke,16
+6,30.09,Female,Yuliya Yefimova, Russia,2009,World Championships,"Rome, Italy",Breaststroke,17
+7,29.95,Female,Jessica Hardy, United States,2009,US Open Time Trials,"Federal Way, United States",Breaststroke,22
+8,29.8,Female,Jessica Hardy, United States,2009,US Open Time Trials,"Federal Way, United States",Breaststroke,22
+9,29.78,Female,Yuliya Yefimova, Russia,2013,World Championships,"Barcelona, Spain",Breaststroke,21
+10,29.48,Female,Rūta Meilutytė, Lithuania,2013,World Championships,"Barcelona, Spain",Breaststroke,16
+11,29.4,Female,Lilly King, United States,2017,World Championships,"Budapest, Hungary",Breaststroke,20
+WBT,25.13,Male,Jeff Rouse, United States,1993,Robert Burns Invitational,"Edinburgh, United Kingdom",Backstroke,23
+1,24.99,Male,Lenny Krayzelburg, United States,1999,Pan Pacific Championships,"Sydney, Australia",Backstroke,24
+2,24.8,Male,Thomas Rupprath, Germany,2003,World Championships,"Barcelona, Spain",Backstroke,26
+3,24.47,Male,Liam Tancock, Great Britain,2008,British Championships,"Sheffield, United Kingdom",Backstroke,23
+4,24.33,Male,Randall Bal, United States,2008,Dutch Swimming Cup,"Eindhoven, Netherlands",Backstroke,28
+5,24.08,Male,Liam Tancock, Great Britain,2009,World Championships,"Rome, Italy",Backstroke,24
+6,24.04,Male,Liam Tancock, Great Britain,2009,World Championships,"Rome, Italy",Backstroke,24
+7,24,Male,Kliment Kolesnikov, Russia,2018,European Championships,"Glasgow, United Kingdom",Backstroke,18
+1,29,Female,Sandra Völker, Germany,1997,Mare Nostrum,"Monte Carlo, Monaco",Backstroke,23
+2,28.78,Female,Sandra Völker, Germany,1999,Mare Nostrum,"Monte Carlo, Monaco",Backstroke,25
+3,28.71,Female,Sandra Völker, Germany,1999,European Championships,"Istanbul, Turkey",Backstroke,25
+4,28.69,Female,Nina Zhivanevskaya, Spain,2000,Spain Spring Nationals,"Madrid, Spain",Backstroke,23
+5,28.67,Female,Mai Nakamura, Japan,2000,Japan Championships,"Tokyo, Japan",Backstroke,21
+6,28.25,Female,Sandra Völker, Germany,2000,Germany Championships,"Berlin, Germany",Backstroke,26
+7,28.19,Female,Janine Pietsch, Germany,2005,Germany Championships,"Berlin, Germany",Backstroke,23
+8,28.16,Female,Leila Vaziri, United States,2007,World Championships,"Melbourne, Australia",Backstroke,22
+8,28.16,Female,Leila Vaziri, United States,2007,World Championships,"Melbourne, Australia",Backstroke,22
+9,28.09,Female,Li Yang, China,2007,World Military Games,"Hyderabad, India",Backstroke,
+10,28,Female,Hayley McGregory, United States,2008,Texas Senior Circuit Championships,"Austin, United States",Backstroke,22
+11,27.95,Female,Emily Seebohm, Australia,2008,Australia Championships,"Sydney, Australia",Backstroke,16
+12,27.67,Female,Sophie Edington, Australia,2008,Australia Championships,"Sydney, Australia",Backstroke,24
+12,27.67,Female,Zhao Jing, China,2009,China Championships,"Shaoxing, China",Backstroke,19
+13,27.61,Female,Daniela Samulski, Germany,2009,Germany Championships,"Berlin, Germany",Backstroke,25
+14,27.39,Female,Daniela Samulski, Germany,2009,World Championships,"Rome, Italy",Backstroke,25
+15,27.38,Female,Anastasia Zuyeva, Russia,2009,World Championships,"Rome, Italy",Backstroke,19
+16,27.06,Female,Zhao Jing, China,2009,World Championships,"Rome, Italy",Backstroke,19
+17,26.98,Female,Liu Xiang, China,2018,Asian Games,"Jakarta, Indonesia",Backstroke,22
